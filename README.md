@@ -1,6 +1,6 @@
 <div align="center">
 
-# RIZKY IHSAN
+# MUHAMMAD RIZKY IHSAN
 
 ### IoT Engineer · Full-Stack Developer · Industrial Automation
 
