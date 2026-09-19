@@ -1,250 +1,261 @@
-# Hi, I'm Rizky 👋
+<div align="center">
 
-### IoT Engineer • Full-Stack Developer • Automation & SCADA Enthusiast
+# Rizky Ihsan
 
-I work on the intersection of **software, industrial automation, IoT, networking, and water utility technology**.
+### IoT Engineer • Full-Stack Developer • Industrial Automation
 
-My projects include web-based information systems, IoT data loggers, SCADA integration, server deployment, industrial sensors, and automation systems.
+Building reliable systems that connect
+**software, industrial devices, sensors, networks, and automation.**
 
----
+<br>
 
-## 👨‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=rizkyihsancode-gif&label=Profile%20Views&color=0e75b6&style=flat" />
 
-- 💧 Working on **Digitalization & Automation Systems for Water Utilities / PDAM**
-- 🌐 Developing web applications using **Laravel & PHP**
-- 📡 Building **IoT & Industrial Data Logger Systems**
-- ⚙️ Exploring **SCADA, PLC, RTU, VSD, and Industrial Automation**
-- 🖥️ Managing **Linux Servers, Nginx, Databases & Networks**
-- 🔌 Working with **ESP32, Raspberry Pi & Revolution Pi**
-- 📊 Interested in **Industrial Monitoring & Data Acquisition**
-- 🛠️ Always learning and building real-world systems
+</div>
 
 ---
 
-# 🚀 Technology Stack
+## About Me
 
-## 🌐 Web Development
+I am an engineer and developer focused on **Industrial IoT, Web Development, SCADA, automation, server infrastructure, and water utility digitalization**.
+
+My work combines software engineering with real-world industrial systems, including data acquisition, monitoring, process automation, networking, and web-based information systems.
+
+Currently focusing on:
+
+* Industrial IoT and Data Acquisition
+* SCADA and Process Automation
+* Water Utility Digitalization
+* Laravel Web Application Development
+* Industrial Sensor Integration
+* Linux Server Infrastructure
+* Networking and System Integration
+
+---
+
+## Tech Stack
+
+### Software Development
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=laravel,php,html,css,js,bootstrap,mysql,postgres" />
-
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,bootstrap,python,c,cpp" />
 </p>
 
-## ⚙️ IoT & Embedded Systems
+### Database
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,python" />
-
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
-**Hardware & Protocols**
-
-![ESP32](https://img.shields.io/badge/ESP32-IoT-red?style=for-the-badge&logo=espressif&logoColor=white)
-![RS485](https://img.shields.io/badge/RS485-Modbus-blue?style=for-the-badge)
-![Modbus](https://img.shields.io/badge/Modbus-RTU-00599C?style=for-the-badge)
-![MQTT](https://img.shields.io/badge/MQTT-IoT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![ADS1115](https://img.shields.io/badge/ADS1115-ADC-green?style=for-the-badge)
-
----
-
-## 🏭 Industrial Automation & SCADA
-
-![SCADA](https://img.shields.io/badge/SCADA-Monitoring-0A66C2?style=for-the-badge)
-![RTU](https://img.shields.io/badge/RTU-Automation-orange?style=for-the-badge)
-![PLC](https://img.shields.io/badge/PLC-Industrial_Automation-yellow?style=for-the-badge)
-![VSD](https://img.shields.io/badge/VSD-Motor_Control-darkgreen?style=for-the-badge)
-![Modbus TCP](https://img.shields.io/badge/Modbus-TCP-blue?style=for-the-badge)
-
-### Industrial Platforms
-
-![Revolution Pi](https://img.shields.io/badge/Revolution_Pi-Industrial_Raspberry_Pi-red?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-Automation-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
----
-
-# 🖥️ Server & Infrastructure
+### IoT & Embedded Systems
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,docker,git,github,vscode,powershell" />
-
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 </p>
 
-![MikroTik](https://img.shields.io/badge/MikroTik-Networking-EA1D2C?style=for-the-badge&logo=mikrotik&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-Virtualization-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-Web_Server-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+Technologies and protocols:
 
----
+`ESP32` · `RS485` · `Modbus RTU` · `Modbus TCP` · `MQTT` · `ADC` · `Industrial Sensors`
 
-# 🔬 Engineering & Development Tools
+### Industrial Automation
+
+`SCADA` · `RTU` · `PLC` · `VSD` · `Process Control` · `Data Acquisition`
+
+Industrial platforms:
+
+`Revolution Pi` · `Raspberry Pi` · `Industrial Sensors`
+
+### Server & Infrastructure
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,docker,git,github,powershell,vscode" />
 </p>
 
-![LabVIEW](https://img.shields.io/badge/LabVIEW-SCADA-yellow?style=for-the-badge)
-![EasyEDA](https://img.shields.io/badge/EasyEDA-PCB_Design-1765F6?style=for-the-badge)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-Embedded-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+Additional technologies:
+
+`Proxmox VE` · `MikroTik RouterOS` · `Nginx` · `PHP-FPM` · `Linux Server`
 
 ---
 
-# 💧 Projects & Engineering
+## Engineering Focus
 
-## 📅 SIPENA
-
-**Sistem Informasi Peragendaan**
-
-Web-based meeting and agenda management system developed using **Laravel**.
-
-`Laravel` `PHP` `MySQL` `Nginx` `Ubuntu`
-
-Features include:
-
-- Agenda submission
-- Approval workflow
-- Meeting invitation generation
-- Meeting history
-- User & role management
-- Agenda calendar
-- Document management
-
----
-
-## 💧 PDAM SCADA & Process Automation
-
-SCADA and automation system for monitoring and controlling water treatment processes.
-
-Technology involved:
-
-`SCADA` `RTU` `Revolution Pi` `VSD` `Industrial Sensors` `Modbus`
-
-Including:
-
-- Streaming Current Monitor
-- RTU control logic
-- VSD control
-- Chemical dosing pump control
-- Process monitoring
-- SCADA dashboard
-- Industrial sensor integration
+```text
+Industrial IoT
+│
+├── Sensors & Instrumentation
+├── Data Logger
+├── RS485 / Modbus
+├── MQTT
+└── Remote Monitoring
+        │
+        ▼
+SCADA & Automation
+│
+├── RTU
+├── PLC
+├── VSD
+├── Process Control
+└── Industrial Monitoring
+        │
+        ▼
+Software & Infrastructure
+│
+├── Laravel
+├── REST API
+├── Database
+├── Linux Server
+├── Nginx
+└── Network Infrastructure
+```
 
 ---
 
-## 📡 IoT Water Distribution Data Logger
+## Selected Projects
 
-Industrial monitoring system for water distribution networks.
+### SIPENA — Meeting & Agenda Management System
 
-Monitored parameters include:
+Web-based information system developed using **Laravel** for managing organizational meeting agendas.
 
-- Water Flow
-- Water Pressure
-- Totalizer
-- Battery Voltage
-- Panel Voltage
-- Communication Signal
+Main capabilities:
 
-Technology:
+* Meeting agenda submission
+* Approval workflow
+* Meeting schedule management
+* Automatic meeting invitation generation
+* Meeting history and documentation
+* Role-based access control
+* Agenda calendar
+* User and master data management
+
+**Technology**
+
+`Laravel` `PHP` `MySQL` `JavaScript` `Bootstrap` `Nginx` `Ubuntu`
+
+---
+
+### Water Treatment SCADA & Automation
+
+Industrial automation system designed to support water treatment process monitoring and chemical dosing control.
+
+System integration includes:
+
+* Streaming Current Monitor
+* Revolution Pi / RTU
+* Variable Speed Drive
+* Chemical dosing pumps
+* Industrial sensors
+* Sampling system
+* SCADA monitoring dashboard
+* Automatic and manual control modes
+
+**Technology**
+
+`SCADA` `Revolution Pi` `RTU` `VSD` `Modbus` `Industrial Automation`
+
+---
+
+### Water Distribution Data Logger
+
+IoT-based monitoring system for water distribution networks.
+
+Parameters monitored include:
+
+* Water flow
+* Water pressure
+* Totalizer
+* Battery voltage
+* Panel voltage
+* Communication signal
+
+Designed for monitoring points such as:
+
+`DMA` · `Control Point` · `Distribution Zone`
+
+**Technology**
 
 `ESP32` `RS485` `Modbus` `MQTT` `Industrial Sensors`
 
 ---
 
-## 🧪 Water Quality Data Logger
+### Water Quality Monitoring
 
-Development and research of water quality monitoring systems using industrial sensors.
+Development and testing of water quality data acquisition systems using digital and analog industrial sensors.
 
-Parameters:
+Parameters include:
 
-`pH` • `Turbidity` • `Temperature` • `Water Quality`
-
-Hardware:
-
-`RS485 Modbus Sensors` • `ADS1115` • `ESP32`
-
----
-
-## 🖥️ Linux Server Infrastructure
-
-Deploying and managing Linux-based application infrastructure.
+`pH` · `Turbidity` · `Temperature` · `Water Quality`
 
 Technology:
 
-`Ubuntu Server` • `Nginx` • `PHP-FPM` • `Laravel` • `PostgreSQL` • `MySQL` • `MQTT` • `Proxmox`
+`Industrial Sensors` `Modbus RS485` `ADS1115` `ESP32`
 
 ---
 
-# 📊 GitHub Statistics
+## Infrastructure & Networking
 
-<p align="center">
+Experience working with:
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rizkyihsancode-gif&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyihsancode-gif&theme=github-dark-blue&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyihsancode-gif&layout=compact&theme=github_dark&hide_border=true" />
-
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/rizkyihsancode-gif/rizkyihsancode-gif/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
+* Ubuntu Server
+* Nginx Web Server
+* PHP-FPM
+* PostgreSQL
+* MySQL
+* Proxmox VE
+* MikroTik RouterOS
+* VPN
+* NAT & Firewall
+* Linux File Server
+* MQTT Infrastructure
+* Application Deployment
 
 ---
 
-# 🎯 Current Focus
+## Development Tools
 
-```text
-Industrial IoT
-     │
-     ├── Water Utility Monitoring
-     │
-     ├── Industrial Sensors
-     │
-     ├── Data Logger
-     │
-     └── MQTT / Modbus
-     │
-     ▼
-SCADA & Automation
-     │
-     ├── RTU
-     ├── PLC
-     ├── VSD
-     └── Process Control
-     │
-     ▼
-Server & Application
-     │
-     ├── Laravel
-     ├── Linux
-     ├── Nginx
-     ├── Database
-     └── Dashboard
-```
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,arduino" />
+</p>
+
+Additional engineering tools:
+
+`LabVIEW` · `EasyEDA` · `Arduino IDE` · `Git` · `PowerShell`
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rizkyihsancode-gif&show_icons=true&hide_border=true&theme=github_dark" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyihsancode-gif&layout=compact&hide_border=true&theme=github_dark" />
+
+</div>
+
+---
+
+## Current Interests
+
+* Industrial IoT architecture
+* SCADA and telemetry systems
+* Water treatment automation
+* Industrial communication protocols
+* Embedded systems
+* Backend development
+* Server virtualization
+* Network infrastructure
+* Monitoring and data acquisition
 
 ---
 
 <div align="center">
 
-### ⚡ Engineering • Automation • IoT • Software
+### Engineering systems from sensor to server.
 
-> Building systems that connect **software, sensors, networks, and industrial processes.**
+**IoT • Automation • SCADA • Software • Infrastructure**
 
-![Profile Views](https://komarev.com/ghpvc/?username=rizkyihsancode-gif&style=for-the-badge)
+<br>
+
+`Build` · `Integrate` · `Monitor` · `Automate`
 
 </div>
